@@ -6,7 +6,7 @@ _Este repositório foi criado para documentar todo o meu passo a passo, projetos
 > 📌  <strong>Curso de JavaScript para inicinates</strong>  
 > 📌  <strong>Instrutor Matheus Battisti</strong>  
 
-### 🚦 Confira a grade completa das aulas
+### 🚦 Confira os temas abordados durante a aula.
 
 > ☑️ [Introdução]()
 
